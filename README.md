@@ -3,8 +3,7 @@
 👀 Curious about many things — especially programming and how systems work  
 🌱 Currently learning, breaking things, fixing them, and learning again  
 💻 I enjoy building side projects, experimenting with ideas, and improving step by step  
-🤖 Sometimes I code with the help of AI (because why not?)  
-☕ Often thinking best at coffee shops  
+🤖 Sometimes I code with the help of AI (because why not?) 
 
 ---
 
@@ -44,3 +43,4 @@ Not everything here is perfect — but everything here is **part of the journey*
 ---
 
 > “Learning is more fun when you actually build something.”
+> Thanks for reading this — hope you enjoyed the journey so far.
